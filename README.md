@@ -7,11 +7,11 @@ But before we go ahead, we would like you to go thru a small assessment, which w
 
 
 ## Task Objective :
-* [ ] Perform EDA on the given [data](https://github.com/geniusai-research/interns_task/blob/main/taskdata.csv).
-* [ ] Build some new features which makes sense for the learning objective.
-* [ ] Train any classifier (can be any model of your choice XGB,DNNs, etc) 
-* [ ] Implement SHAP on this model to explain the decisions. (`Bonus points`) 
-* [ ] Submit the task by creating a PR request on this [repository](https://github.com/geniusai-research/interns_task/).
+* [x] Perform EDA on the given [data](https://github.com/geniusai-research/interns_task/blob/main/taskdata.csv).
+* [x] Build some new features which makes sense for the learning objective.
+* [x] Train any classifier (can be any model of your choice XGB,DNNs, etc) 
+* [x] Implement SHAP on this model to explain the decisions. (`Bonus points`) 
+* [x] Submit the task by creating a PR request on this [repository](https://github.com/geniusai-research/interns_task/).
 
 ## Instructions :
 * Perform all the tasks mentioned above.
